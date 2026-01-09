@@ -219,4 +219,10 @@ Babson College
   
 🔗 LinkedIn: [linkedin.com/in/talhagulzar2](https://www.linkedin.com/in/talhagulzar2)
 
+## 📄 Copyright & Usage
+
+© 2025 Talha Gulzar. All rights reserved.
+
+This project is shared for **portfolio and educational purposes only**. Unauthorized copying, distribution, or use of this code or analysis is prohibited without explicit permission from the author.
+
 ---
